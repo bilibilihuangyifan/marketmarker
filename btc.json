@@ -1,0 +1,22 @@
+{
+	"URL" : "wss://real.okex.com:10441/websocket",
+	"apikey" : "",
+	"secretkey" : "",
+	"initCounter" : 10,
+	"baseInfo" : [
+	{
+		"currency" : "btc"
+	},
+	{ 
+		"currency" : "bch", 
+		"initPrice" : 0.18,
+		"lowLimit" : 0.1,
+		"hightLimit" : 0.9,
+		"gap" : 2,
+		"rate" : 1.003,
+		"initBase" : 100,
+		"tradeAmount" :   1,
+		"orderLength" : 5
+	}
+	]
+}
