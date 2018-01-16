@@ -2,9 +2,10 @@
 var myArgs = process.argv.slice(2);
 var config=require('./'+myArgs[0]);
 //console.log(config);
+var API_KEY = require('./apikey.json');
+var api_key = API_KEY.apikey;
+var secret_key  = API_KEY.secretkey;
 var URL = config.URL;
-var api_key = config.apikey;
-var secret_key  = config.secretkey;
 var initCounter = config.initCounter;
 var baseInfo = config.baseInfo;
 
