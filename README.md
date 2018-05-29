@@ -1,6 +1,6 @@
 # marketmarker
 
-> A Quantitative Transaction Demo
+> A Quant Trading Demo
 
 #### Run Setup
 
