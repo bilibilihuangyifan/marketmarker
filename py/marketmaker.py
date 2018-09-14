@@ -21,7 +21,7 @@ buyOrders = [[] for i in range(marketLength)]
 sellOrders = [[] for i in range(marketLength)]
 
 #初始化apikey，secretkey,url
-config = open('.huobiconfig','r')
+config = open('.apikey','r')
 lines = config.readlines()
 apikey = lines[0].strip()
 secretkey = lines[1].strip()

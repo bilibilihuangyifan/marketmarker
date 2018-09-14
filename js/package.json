@@ -1,10 +1,10 @@
 {
   "name": "marketmarker",
   "version": "1.0.0",
-  "description": "a quantitative transaction demo",
-  "main": "grid.js",
+  "description": "grid market maker",
+  "main": "marketmarker.js",
   "scripts": {
-    "dev": "node grid.js"
+    "dev": "node marketmarker.js"
   },
   "dependencies": {
     "request": "^2.83.0",
