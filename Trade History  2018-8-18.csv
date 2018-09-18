@@ -1,0 +1,115 @@
+transactTime,symbol,execType,side,lastQty,lastPx,execCost,commission,execComm,ordType,orderQty,leavesQty,price,text,orderID
+2018/9/18 下午8:32:50,XBTU18,Trade,Buy,1,6350,-15748,0.000675,10,Limit,1,0,6350,"Spam
+Submitted via API.",433576ad-a2f7-e9d0-40bd-6a2103e853ca
+2018/9/18 下午8:32:50,XBTU18,Trade,Buy,1,6356,-15733,0.000675,10,Limit,1,0,6356,"Spam
+Submitted via API.",582a1751-7d58-067d-b1e0-34d59db5daf8
+2018/9/18 下午8:29:01,XBTU18,Trade,Buy,1,6360.5,-15722,0.000675,10,Limit,1,0,6362,"Spam
+Submitted via API.",bd592e7c-4df3-ce56-b52e-8bc06359fa59
+2018/9/18 下午8:28:59,XBTU18,Trade,Buy,1,6360.5,-15722,0.000675,10,Limit,1,0,6368,"Spam
+Submitted via API.",d79c5700-6f04-ee86-c4e7-cf37770604a0
+2018/9/18 下午8:28:33,XBTU18,Trade,Sell,1,6374,15689,0.000675,10,Limit,1,0,6374,"Spam
+Submitted via API.",cf708fe0-940e-00d0-3c25-accec10ee1f9
+2018/9/18 下午8:28:33,XBTU18,Trade,Sell,1,6368,15704,0.000675,10,Limit,1,0,6368,"Spam
+Submitted via API.",adf552d0-b51e-290b-0a5a-55198fe7293a
+2018/9/18 下午8:28:09,XBTU18,Trade,Sell,1,6365.5,15710,0.000675,10,Limit,1,0,6362,"Spam
+Submitted via API.",a625ef3c-1f51-1597-07de-fce97762950d
+2018/9/18 下午8:27:56,XBTU18,Trade,Sell,1,6375,15686,0.000675,10,Limit,1,0,6375,"Spam
+Submitted via API.",9ed0faeb-627d-81a5-ec33-06f730e4d20e
+2018/9/18 下午8:27:56,XBTU18,Trade,Sell,1,6368,15704,0.000675,10,Limit,1,0,6368,"Spam
+Submitted via API.",ca711ccd-6fed-04f0-f0ab-5725369c14c8
+2018/9/18 下午8:27:50,XBTU18,Trade,Sell,1,6362,15718,0.000675,10,Limit,1,0,6362,"Spam
+Submitted via API.",34fd3fac-eb83-ada4-fbc0-1f3cab149c75
+2018/9/18 下午8:27:06,XBTU18,Trade,Sell,1,6356,15733,0.000675,10,Limit,1,0,6356,"Spam
+Submitted via API.",01bd4b06-7478-49cf-2990-7d18e56333d0
+2018/9/18 下午8:26:50,XBTU18,Trade,Sell,1,6349,15751,0.000675,10,Limit,1,0,6349,"Spam
+Submitted via API.",37891265-ee2b-3dee-10f4-084010b1ac49
+2018/9/18 下午8:26:50,XBTU18,Trade,Sell,1,6343,15765,0.000675,10,Limit,1,0,6343,"Spam
+Submitted via API.",701398f3-25df-3bae-e6de-9c2f29c945a9
+2018/9/18 下午8:26:21,XBTU18,Trade,Sell,1,6339,15775,0.000675,10,Limit,1,0,6337,"Spam
+Submitted via API.",6c7d6044-c7dd-7c5a-a2da-6e0389db297b
+2018/9/18 下午8:26:19,XBTU18,Trade,Sell,1,6339,15775,0.000675,10,Limit,1,0,6331,"Spam
+Submitted via API.",22ca5710-e1a0-a7e6-d403-b6937056c277
+2018/9/18 下午8:25:50,XBTU18,Trade,Sell,1,6337,15780,0.000675,10,Limit,1,0,6337,"Spam
+Submitted via API.",aa52d299-a974-313c-84c1-de964ab102e3
+2018/9/18 下午8:25:34,XBTU18,Trade,Sell,1,6332,15793,0.000675,10,Limit,1,0,6331,"Spam
+Submitted via API.",4bf60428-29a3-b000-7576-c35e602f5e8e
+2018/9/18 下午8:24:50,XBTU18,Trade,Sell,1,6331,15795,0.000675,10,Limit,1,0,6331,"Spam
+Submitted via API.",db5f120e-1cf9-1d22-139b-d5555bec9b17
+2018/9/18 下午8:23:50,XBTU18,Trade,Sell,1,6324,15813,0.000675,10,Limit,1,0,6324,"Spam
+Submitted via API.",0af62f7e-47d1-80a3-c313-ae566bb899c9
+2018/9/18 下午8:23:50,XBTU18,Trade,Sell,1,6318,15828,0.000675,10,Limit,1,0,6318,"Spam
+Submitted via API.",df26305d-8124-f1c4-fdb8-6a8b1607923d
+2018/9/18 下午8:21:50,XBTU18,Trade,Sell,1,6312,15843,0.000675,10,Limit,1,0,6312,"Spam
+Submitted via API.",677b41ac-f1c3-7871-3443-636b116e9dfb
+2018/9/18 下午8:16:14,XBTU18,Trade,Buy,1,6305,-15860,0.000675,10,Limit,1,0,6305,"Spam
+Submitted via API.",7a270646-12c5-4fa6-778c-e7cd50a58fc1
+2018/9/18 下午8:13:10,XBTU18,Trade,Sell,1,6312,15843,0.000675,10,Limit,1,0,6312,"Spam
+Submitted via API.",870d23a6-354e-7712-47f2-87e0aa35c911
+2018/9/18 下午8:10:34,XBTU18,Trade,Buy,1,6305,-15860,0.000675,10,Limit,1,0,6305,"Spam
+Submitted via API.",846ceb26-8002-a08a-cee5-94f10f25e6a3
+2018/9/18 下午8:05:58,XBTU18,Trade,Buy,1,6311,-15845,0.000675,10,Limit,1,0,6311,"Spam
+Submitted via API.",01bcbb5f-a223-21c8-43a2-89dbb910158c
+2018/9/18 下午8:02:50,XBTU18,Trade,Sell,1,6318,15828,0.000675,10,Limit,1,0,6318,"Spam
+Submitted via API.",b42462fe-81cd-80fe-6488-fff1b12f2741
+2018/9/18 下午7:58:38,XBTU18,Trade,Buy,1,6311,-15845,0.000675,10,Limit,1,0,6311,"Spam
+Submitted via API.",595017ec-74b3-3010-51e2-de28991030ac
+2018/9/18 下午7:58:01,XBTU18,Trade,Sell,1,6318,15828,0.000675,10,Limit,1,0,6318,"Spam
+Submitted via API.",8123b6e6-9060-2b5f-c096-c8ba85b6b751
+2018/9/18 下午7:56:02,XBTU18,Trade,Buy,1,6311,-15845,0.000675,10,Limit,1,0,6311,"Spam
+Submitted via API.",c1694f1a-ffe9-b57d-bbf6-146eb47c1dad
+2018/9/18 下午7:54:48,XBTU18,Trade,Sell,1,6318,15828,0.000675,10,Limit,1,0,6318,"Spam
+Submitted via API.",1faded48-b8cc-258b-0c79-500bfa534ef2
+2018/9/18 下午7:52:41,XBTU18,Trade,Buy,1,6311,-15845,0.000675,10,Limit,1,0,6311,"Spam
+Submitted via API.",b9423eb0-faad-2c97-73cc-7724b885163a
+2018/9/18 下午7:52:14,XBTU18,Trade,Sell,1,6317,15830,0.000675,10,Limit,1,0,6317,"Spam
+Submitted via API.",d7b82fb1-1297-e91d-6454-84b8bee003ff
+2018/9/18 下午7:52:14,XBTU18,Trade,Sell,1,6311,15845,0.000675,10,Limit,1,0,6311,"Spam
+Submitted via API.",398b963d-625c-73e4-ddd0-e8856fcc06ed
+2018/9/18 下午7:50:31,XBTU18,Trade,Sell,1,6305,15860,0.000675,10,Limit,1,0,6305,"Spam
+Submitted via API.",5dea732e-c1b5-7a35-aed2-3ea94b9c9868
+2018/9/18 下午7:38:09,XBTU18,Trade,Sell,1,6299,15876,0.000675,10,Limit,1,0,6299,"Spam
+Submitted via API.",51b614b9-d339-67a6-03f6-a698d1c2f459
+2018/9/18 下午7:35:56,XBTU18,Trade,Buy,1,6292,-15893,0.000675,10,Limit,1,0,6292,"Spam
+Submitted via API.",04532eaf-c729-dcd4-fd8e-0d7189e86826
+2018/9/18 下午7:35:07,XBTU18,Trade,Sell,1,6299,15876,0.000675,10,Limit,1,0,6299,"Spam
+Submitted via API.",877472c1-798e-bcc5-d1bb-3b4771febed6
+2018/9/18 下午7:23:28,XBTU18,Trade,Sell,1,6293,15891,0.000675,10,Limit,1,0,6293,"Spam
+Submitted via API.",b09e077f-25ca-2d74-2575-1d3e15f16e0b
+2018/9/18 下午7:20:50,XBTU18,Trade,Sell,1,6287,15906,0.000675,10,Limit,1,0,6287,"Spam
+Submitted via API.",a7b69387-f6d8-ea8c-0a43-74b8b7ea1137
+2018/9/18 下午7:15:53,XBTU18,Trade,Sell,1,6281,15921,0.000675,10,Limit,1,0,6281,"Spam
+Submitted via API.",6b65eb4d-4a0a-4f71-fb8e-5b1543533e32
+2018/9/18 下午7:04:05,XBTU18,Trade,Buy,1,6274,-15939,0.000675,10,Limit,1,0,6274,"Spam
+Submitted via API.",26a42f41-5fb2-9146-c5e4-3ea68d8c3c37
+2018/9/18 下午6:45:42,XBTU18,Trade,Buy,1,6280,-15924,0.000675,10,Limit,1,0,6280,"Spam
+Submitted via API.",179d14c0-8c92-d273-e53e-7c0dd06d3289
+2018/9/18 下午6:45:12,XBTU18,Trade,Sell,1,6287,15906,0.000675,10,Limit,1,0,6287,"Spam
+Submitted via API.",8cc4657b-46ed-c878-db7f-a34f9b17fd9d
+2018/9/18 下午6:44:49,XBTU18,Trade,Buy,1,6280,-15924,0.000675,10,Limit,1,0,6280,"Spam
+Submitted via API.",be3b628b-56bb-e45e-481f-247af4a94b8e
+2018/9/18 下午6:39:33,XBTU18,Trade,Buy,1,6286,-15908,0.000675,10,Limit,1,0,6286,"Spam
+Submitted via API.",f497911d-0536-30e4-4c69-5da896beddde
+2018/9/18 下午6:30:02,XBTU18,Trade,Buy,1,6292,-15893,0.000675,10,Limit,1,0,6292,"Spam
+Submitted via API.",accb4090-6be7-9f44-60cb-96e68f0d3b1a
+2018/9/18 下午6:24:54,XBTU18,Trade,Sell,1,6299,15876,0.000675,10,Limit,1,0,6299,"Spam
+Submitted via API.",9dcd383b-cc4b-470b-39b0-87b1a1bcbbc6
+2018/9/18 下午6:22:48,XBTU18,Trade,Buy,1,6292,-15893,0.000675,10,Limit,1,0,6292,"Spam
+Submitted via API.",b9b2a138-1489-96e4-567f-77418674c14a
+2018/9/18 下午6:20:58,XBTU18,Trade,Sell,1,6299,15876,0.000675,10,Limit,1,0,6299,"Spam
+Submitted via API.",ffed88e8-6730-48e5-8e8b-b30dab7dc2cf
+2018/9/18 下午6:19:57,XBTU18,Trade,Buy,1,6292,-15893,0.000675,10,Limit,1,0,6292,"Spam
+Submitted via API.",3b073cce-037c-95c1-ec94-73aacf335e06
+2018/9/18 下午6:19:01,XBTU18,Trade,Sell,1,6299,15876,0.000675,10,Limit,1,0,6299,"Spam
+Submitted via API.",76560dfc-a34e-e738-af3c-eed449e6b755
+2018/9/18 下午6:03:03,XBTU18,Trade,Sell,1,6293,15891,0.000675,10,Limit,1,0,6293,"Spam
+Submitted via API.",ad1c6f2c-3273-c714-80b3-b08ea337e891
+2018/9/18 下午6:02:22,XBTU18,Trade,Buy,1,6286,-15908,0.000675,10,Limit,1,0,6286,"Spam
+Submitted via API.",64bfc370-0f35-4671-41e3-5215e2d8881e
+2018/9/18 下午6:01:01,XBTU18,Trade,Sell,1,6293,15891,0.000675,10,Limit,1,0,6293,"Spam
+Submitted via API.",c3c811ab-f60e-d835-0428-18f65c9d378e
+2018/9/18 下午5:51:28,XBTU18,Trade,Buy,1,6286,-15908,0.000675,10,Limit,1,0,6286,"Spam
+Submitted via API.",a9287ce7-3420-93c2-6b53-df00485c3a39
+2018/9/18 下午5:46:45,XBTU18,Trade,Sell,1,6293,15891,0.000675,10,Limit,1,0,6293,"Spam
+Submitted via API.",00456ac8-919c-82d3-43a6-5f51f0714747
+2018/9/18 下午5:43:56,XBTU18,Trade,Sell,1,6287,15906,0.000675,10,Limit,1,0,6287,"Spam
+Submitted via API.",c0094565-57bc-ba66-dda7-6afbca166cf8

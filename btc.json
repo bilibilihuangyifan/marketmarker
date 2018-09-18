@@ -1,29 +1,18 @@
 {
-	"URL" : "wss://real.okex.com:10441/websocket",
-	"initCounter" : 1.01,
+	"URL" : "test",
+	"initCounter" :1,
 	"baseInfo" : [
 	{
-		"currency" : "btc"
+		"currency" : "USD"
 	},
 	{ 
-		"currency" : "bch", 
-		"initPrice" : 0.1642,
-		"lowLimit" : 0.1,
-		"hightLimit" : 0.9,
-		"gap" : 2,
-		"rate" : 1.01,
-		"initBase" : 10,
-		"tradeAmount" :   1,
-		"orderLength" : 3
-	},
-	{ 
-		"currency" : "eth", 
-		"initPrice" : 0.089,
-		"lowLimit" : 0.01,
-		"hightLimit" : 0.2,
-		"gap" : 2,
-		"rate" : 1.01,
-		"initBase" : 10,
+		"currency" : "BTC", 
+		"initPrice" : 6300,
+		"lowLimit" : 6100,
+		"hightLimit" : 6600,
+		"gap" : 0.001,
+		"rate" : 1.02,
+		"initBase" : 0.013,
 		"tradeAmount" :   1,
 		"orderLength" : 3
 	}
