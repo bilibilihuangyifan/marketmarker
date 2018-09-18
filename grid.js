@@ -101,9 +101,17 @@ function dumpOrder(orders, k) {//获取现有的订单	，并载入内存
 		initPrice=maxbuy+delta;
 		console.log('maxbuy',maxbuy);
 	}
+	if((maxbuy==0)&&(buyOrders[k].length<1)){//全部被吃完
+		initPrice=initPrice-3*delta;
+		console.log('initPrice',initPrice);
+	}
 	if((minsell<99999)&&(sellOrders[k].length<3)){
 		initPrice=minsell-delta;
 		console.log('minsell',minsell);
+	}
+	if((minsell==99999)&&(sellOrders[k].length<1)){
+		initPrice=initPrice+3*delta;
+		console.log('initPrice',initPrice);
 	}
 	console.log('buyOrders', buyOrders[k].length);
 	console.log('sellOrders', sellOrders[k].length);
