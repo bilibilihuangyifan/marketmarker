@@ -26,3 +26,6 @@ python maketmaker.py
 python start.py
 
 ```
+
+###  Disclaimer 
+This code DOES NOT give investment advice. On top of that there might be bugs in the code - This code DOES NOT come with ANY warranty.
